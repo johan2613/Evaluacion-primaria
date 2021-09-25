@@ -1,0 +1,1 @@
+// la afirmacion a es incorrecta por que una constante siempre debe ser fija
